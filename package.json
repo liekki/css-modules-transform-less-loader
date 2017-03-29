@@ -1,5 +1,5 @@
 {
-  "name": "less-loader",
+  "name": "css-modules-transform-less-loader",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
